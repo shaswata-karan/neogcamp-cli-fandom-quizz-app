@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "readline-sync": "^1.4.10"
+  },
+  "type": "module",
+  "name": "neogcamp-cli-fandom-quizz-app",
+  "description": "### Sub-tasks: 1. Make a quiz on anything you're passionate about, similar to markOne. 2. Take Username as input. 3. Have at least 5 questions. 4. Display the final score to the user",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
